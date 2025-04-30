@@ -1,4 +1,4 @@
-### Olá , eu sou a Phamela Julia 👋
+### Olá , eu sou  Phamela Julia 👋
 
 - ✨ Tenho 17 anos .
 - 📚Sou estudante do IFCE Campus Maranguape.
