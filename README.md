@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Seja+bem-vindo!+%F0%9F%8C%B8&color=FFB6C1)](https://git.io/typing-svg)
 
 ## Seja bem vindo ao meu github.
-Meu nome é **Phamela Julia , tenho **17 anos e gosto de fazer tudo aquilo que me traz adrenalina .
-Pretendo futuramente se apronfundar na **área da tecnologia , e caso eu continue quero fazer ** desing. Sou uma
+Meu nome é **Phamela Julia** , tenho **17 anos** e gosto de fazer tudo aquilo que me traz adrenalina .
+Pretendo futuramente se apronfundar na **área da tecnologia** , e caso eu continue quero fazer **desing**. Sou uma
 pessoa que amo escultar música para execultar meus objetivos , e aqui no meu github , você vai encontrar todos 
 os meus trabalhos e projetos desenvolvidos .
 
