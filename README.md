@@ -13,15 +13,18 @@ os meus trabalhos e projetos desenvolvidos .
 
 ### sobre mim! 👋
 
+
 - 📚Sou estudante do IFCE Campus Maranguape.
 - ⏳ Estou cursando Técnico Informática.
-- 🌪️ Gosto muito de práticar esporte .
+- 🏃🏾 Gosto muito de práticar esporte .
 - 🎯curiosidade : Odeio toque fisíco .
 - 📚 Gosto muito de Humanas.
+
   
 <div> 
   <a href="https://www.instagram.com/_phamela_slv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "phamelasena0@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 ### 🚀 Linguagens 
 <div align="center">
