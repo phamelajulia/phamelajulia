@@ -1,6 +1,5 @@
 ### Olá , eu sou  Phamela Julia 👋
 
-- ✨ Tenho 17 anos .
 - 📚Sou estudante do IFCE Campus Maranguape.
 - ⏳ Estou cursando Técnico Informática.
 - 🌪️ Gosto muito de práticar esporte  principalmente(Futsal).
