@@ -39,3 +39,10 @@ os meus trabalhos e projetos desenvolvidos .
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=emanuella7&color=blue)
+
+### 📈 Estatísticas do GitHub  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamelajulia&show_icons=true&theme=default&hide_border=false&bg_color=00000000" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamelajulia&layout=compact&theme=default&hide_border=false&bg_color=00000000" />
+
+</div>
