@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Seja+bem-vindo+ao+meu+GitHub+🎀&color=9370DB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Seja+bem-vindo!+%F0%9F%8C%B8&color=FFB6C1)](https://git.io/typing-svg)
 
 ## Seja bem vindo ao meu github.
 Meu nome é **Phamela Julia** , tenho **17 anos** e gosto de fazer tudo aquilo que me traz adrenalina .
